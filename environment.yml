@@ -2,15 +2,15 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - pip=20.3.3=py36h06a4308_0
-  - python=3.6.12=hcff3b4d_2
-  - readline=8.0=h7b6447c_0
-  - setuptools=51.0.0=py36h06a4308_2
-  - sqlite=3.33.0=h62c20be_0
-  - tk=8.6.10=hbc83047_0
-  - wheel=0.36.2=pyhd3eb1b0_0
-  - xz=5.2.5=h7b6447c_0
-  - zlib=1.2.11=h7b6447c_3
+  - pip=20.3.3
+  - python=3.6.12
+  - readline=8.0
+  - setuptools=51.0.0
+  - sqlite=3.33.0
+  - tk=8.6.10
+  - wheel=0.36.2
+  - xz=5.2.5
+  - zlib=1.2.11
   - numpy
   - psutil
   - toolz
