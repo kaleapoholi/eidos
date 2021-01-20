@@ -20,6 +20,9 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - sklearn
+  - pyyaml
+  - urllib
   - pip : 
     - absl-py==0.11.0
     - argon2-cffi==20.1.0
@@ -82,7 +85,6 @@ dependencies:
     - prompt-toolkit==3.0.10
     - protobuf==3.14.0
     - ptyprocess==0.7.0
-    - pyyaml
     - pyasn1==0.4.8
     - pyasn1-modules==0.2.8
     - pycparser==2.20
@@ -99,7 +101,6 @@ dependencies:
     - rsa==4.7
     - send2trash==1.5.0
     - six==1.15.0
-    - sklearn
     - tensorboard==2.4.0
     - tensorboard-plugin-wit==1.7.0
     - tensorflow==2.4.0
@@ -107,5 +108,4 @@ dependencies:
     - termcolor==1.1.0
     - testpath==0.4.4
     - tornado==6.1
-    - urllib
   
