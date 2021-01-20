@@ -21,7 +21,6 @@ dependencies:
   - bokeh
   - dask
   - scikit-learn
-  - spicy
   - pyyaml
   - pip : 
     - absl-py==0.11.0
@@ -109,4 +108,5 @@ dependencies:
     - termcolor==1.1.0
     - testpath==0.4.4
     - tornado==6.1
+    - urllib2
   
